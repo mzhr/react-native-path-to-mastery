@@ -1,4 +1,4 @@
-#react-native-path-to-mastery
+# React Native Path to Mastery
 
 What's here is not an exact criterion of different levels of a software developer and ultimately depends on your team and levels of accountability. A senior in one team may be a mid-level in another.
 
