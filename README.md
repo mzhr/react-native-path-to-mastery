@@ -1,12 +1,8 @@
 # React Native Path to Mastery
 
-What's here is not an exact criterion of different levels of a software developer and ultimately depends on your team and levels of accountability. A senior in one team may be a mid-level in another.
+This roadmap is a curated list of resources to help you master React Native development. It is not a rigid criterion for measuring your level as a software developer, as the seniority of a developer can vary depending on their team and levels of accountability.
 
-Regardless, as you improve in technical skills, depending on the team and skill requirements, it's often the soft skills such as team building, management and convincing ability that makes teams happier to give you more responsibility.
-
-The following are curated resources to take on knowledge, but the idea is to master each segment. You should be able to teach each topic to someone else as an idea to know if you know the subject or not.
-
-*NOTE: as an alternative, consider investigating yourself. However, this is curated off many resources and community standards. Have a start with [roadmap.sh - frontend](https://roadmap.sh/frontend).*
+*NOTE: This is curated off many resources and community standards such as [roadmap.sh - frontend](https://roadmap.sh/frontend) but more geared towards react native and what is used in the industry.*
 
 *ALSO NOTE: This document will change as time passes and includes many opinions of libraries/software (unless stated otherwise). Many TODOs exist in this document that needs future investigation.*
 
